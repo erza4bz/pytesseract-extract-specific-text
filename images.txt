@@ -1,0 +1,2 @@
+./data/invoice-test.png
+./data/invoice-test.jpg
