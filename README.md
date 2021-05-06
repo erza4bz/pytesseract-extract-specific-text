@@ -1,0 +1,1 @@
+# pytesseract-extract-specific-text
